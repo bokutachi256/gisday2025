@@ -7,7 +7,7 @@
 * github repository: [www.github.com/bokutachi256/gisday2025](https://www.github.com/bokutachi256/gisday2025)
 * Google ColaboratoryのURL [https://colab.research.google.com/](https://colab.research.google.com/)
 * 参考になるページ
-  - [scikit-learn のマニュアルページ](https://gdal.org/python/)
+  - [scikit-learn のマニュアルページ](https://scikit-learn.org/stable/)
   - [平成29年7月九州北部豪雨に関する情報（国土地理院）](https://www.gsi.go.jp/BOUSAI/H29hukuoka_ooita-heavyrain.html)
   - [正射画像判読図（朝倉・東峰地区）・GeoJSONファイルのダウンロード（上記ページ）](https://www.gsi.go.jp/BOUSAI/H29hukuoka_ooita-heavyrain.html#9)
 
