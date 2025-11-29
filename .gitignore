@@ -50,16 +50,6 @@ ipython_config.py
 .venv
 
 # Data files (GIS and machine learning)
-*.tif
-*.tiff
-*.shp
-*.shx
-*.dbf
-*.prj
-*.cpg
-*.sbn
-*.sbx
-*.geojson
 *.gpkg
 *.gdb/
 *.csv
